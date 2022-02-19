@@ -7,9 +7,8 @@
 import java.io.File;
 
 String path;
-String[] fileNames = new String[10];
-boolean systemInProgress = false;
 int numberOfFiles = 0;
+boolean systemInProgress = false;
 File dir = new File("");
 File [] files = dir.listFiles();
   
