@@ -1,6 +1,7 @@
 // GetFolderInfo
 // Takes folder information such as the number of files and names of each one
 // Methods for java.io.File library: https://www.geeksforgeeks.org/file-class-in-java/
+// https://github.com/Parsa-Sha/FileIOProjects
 
 
 import java.io.File;
